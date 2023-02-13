@@ -15,4 +15,4 @@ Password: Admin
 
 
 
-Live Project can be found here https://islandhomes.ga/
+Live Project can be found here http://islandhomes.ga/
